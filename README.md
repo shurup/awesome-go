@@ -2784,6 +2784,7 @@ _**Unofficial** set of patterns for structuring projects._
 * [uTask](https://github.com/ovh/utask) - Automation engine that models and executes business processes declared in yaml.
 * [Vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000!
 * [webhook](https://github.com/adnanh/webhook) - Tool which allows user to create HTTP endpoints (hooks) that execute commands on the server.
+* [werf](https://github.com/werf/werf) - A CLI tool to implement CI/CD with any CI system gluing Git, Docker, container registry, Helm, and Kubernetes.
 * [Wide](https://wide.b3log.org/login) - Web-based IDE for Teams using Golang.
 * [winrm-cli](https://github.com/masterzen/winrm-cli) - Cli tool to remotely execute commands on Windows machines.
 
